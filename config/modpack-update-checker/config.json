@@ -3,8 +3,8 @@
   "currentVersion": "2.0.0",
   "modpackName": "Requiem",
   "modpackAuthor": "Limbobinho",
-  "modpackReleaseType": "stable", // Valid values are [stable, beta, alpha]
-  "githubRepo": "https://github.com/Limbobinho/R-quiem/tree/9430a2eeb265da2bc735d38be68b66f344b96867/config/modpack-update-checker/",
+  "modpackReleaseType": "stable",
+  "githubRepo": "https://github.com/Limbobinho/R-quiem.git",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
