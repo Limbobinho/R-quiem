@@ -4,7 +4,7 @@
   "modpackName": "Réquiem",
   "modpackAuthor": "Limbobinho",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Limbobinho/R-quiem/refs/heads/main/config/modpack-update-checker/",
+  "updateCheckerId": "https://raw.githubusercontent.com/Limbobinho/R-quiem/refs/heads/main/config/modpack-update-checker/config.json",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
