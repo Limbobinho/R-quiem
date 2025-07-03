@@ -1,15 +1,16 @@
 {
-  "schemaVersion": 9,
+  "schemaVersion": 6,
   "currentVersion": "1.0.0",
-  "modpackName": "Réquiem",
+  "modpackName": "Requiem",
   "modpackAuthor": "Limbobinho",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://github.com/Limbobinho/R-quiem/tree/main/config/modpack-update-checker",
+  "modpackReleaseType": "stable", // Valid values are [stable, beta, alpha]
+  "githubRepo": "https://github.com/Limbobinho/R-quiem/tree/main/Updater",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
     "updateCheckerType": 2,
-    "retroWarning": false,
+    "addButton": true,
+    "mainMenuCreditsIntegration": true,
     "modpackMods": []
   }
 }
