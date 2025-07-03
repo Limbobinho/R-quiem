@@ -1,16 +1,15 @@
 {
-  "schemaVersion": 6,
-  "currentVersion": "2.0.0",
-  "modpackName": "Requiem",
-  "modpackAuthor": "Limbobinho",
+  "schemaVersion": 9,
+  "currentVersion": "1.0.0",
+  "modpackName": "Modpack Name Goes Here",
+  "modpackAuthor": "My Modpack Studio",
   "modpackReleaseType": "stable",
-  "githubRepo": "https://github.com/Limbobinho/R-quiem.git",
+  "updateCheckerId": "https://raw.githubusercontent.com/Limbobinho/R-equiem/config/modpack-update-checker/config.json/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
     "updateCheckerType": 2,
-    "addButton": true,
-    "mainMenuCreditsIntegration": true,
+    "retroWarning": false,
     "modpackMods": []
   }
 }
