@@ -75,6 +75,92 @@
           "operation": "MULTIPLY_BASE"
         }
       ]
+    },
+    "ruby_berserker_axe": {
+      "attack_damage": 15.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "aeternium_berserker_axe": {
+      "attack_damage": 15.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "ender_dragon_berserker_axe": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:arcane",
+          "value": 3.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "elder_guardian_berserker_axe": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:water",
+          "value": 3.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "soul_berserker_axe": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:arcane",
+          "value": 3.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "frozen_berserker_axe": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.1,
+      "attributes": [
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:frost",
+          "value": 3.0,
+          "operation": "ADDITION"
+        }
+      ]
     }
   },
   "armor_sets": {

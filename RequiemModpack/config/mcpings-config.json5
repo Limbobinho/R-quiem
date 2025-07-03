@@ -5,8 +5,8 @@
 		"pingVolumeFalloff": 10
 	},
 	"visualsNest": {
-		"pingDuration": 8,
-		"pingDistance": 256,
+		"pingDuration": 4,
+		"pingDistance": 1000,
 		"pingSourceDistance": 64,
 		"pingSizeMult": "ONE",
 		"pingShowUsername": true,

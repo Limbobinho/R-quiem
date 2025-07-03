@@ -190,6 +190,39 @@
           "operation": "ADDITION"
         }
       ]
+    },
+    "staff_ruby_terra": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "staff_crystal_aqua": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "staff_aeternium_wind": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
     }
   },
   "armor_sets": {
